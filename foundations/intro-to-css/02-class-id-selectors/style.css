@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+.class {
+    color:black;
+    background-color: #efa5a5;
+    font-size:30px;
+}
+.class.three{
+    font-weight: bold;
+    font-size: 50px;
+}
+div{
+    font-weight: bold;
+}
+#id-two{
+    color :blue;
+    font-size: 70px;
+}
+
+#id-four{
+    background-color: rgb(68, 245, 68);
+    font-size: 60px;
+}
