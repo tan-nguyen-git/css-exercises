@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+
+body{
+    text-align: center;
+}
+.btn{
+    font-size: 28px;
+}
+.btn.one{
+    color: white;
+    background-color: black;
+}
+.btn.two{
+    color: black;
+    background-color: rgb(218, 230, 7);
+}
