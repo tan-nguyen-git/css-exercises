@@ -20,3 +20,11 @@ div{
     background-color: rgb(68, 245, 68);
     font-size: 60px;
 }
+.subsection {
+  color: blue;
+}
+
+/* rule 2 */
+.main .list {
+  color: red;
+}
