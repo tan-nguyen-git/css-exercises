@@ -20,7 +20,9 @@ div{
     background-color: rgb(68, 245, 68);
     font-size: 60px;
 }
-.subsection {
+
+/* rule 1 */
+#subsection {
   color: blue;
 }
 
